@@ -17,3 +17,4 @@ docs/
 # zksync
 zkout/
 .TODO.md
+node_modules
